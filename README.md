@@ -1,6 +1,6 @@
 # Hi there, I'm Elnara! 🌟
-# 👩🏻‍💻 About Me:
-I am a Computer Science technology student at John Abbott College who enjoys learning how technology works and building creative solutions. Curious, motivated and always improving. FORTES scholarship recipient by National Bank of Canada & Business Development Bank of Canada and currently hackathon organizer & web developer @JACHacks.👾 
+# 👩🏻‍💻 About Me
+I am a Computer Science student at John Abbott College who enjoys learning technology, solving problems, and building innovative solutions. Curious, motivated and always improving. FORTES scholarship recipient by National Bank of Canada & Business Development Bank of Canada, and previously hackathon organizer & web developer @JACHacks.👾 
 
 # 💡 I’m currently working on
 Full-stack interactive recipe-sharing web app built with the MERN stack: MongoDB, Express.js, React, and Node.js.

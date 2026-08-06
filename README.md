@@ -1,13 +1,13 @@
 # Hi there, I'm Elnara! 🌟
 # 👩🏻‍💻 About Me
-- 🎓 Computer Science student at John Abbott College
+- 🎓 SWE - Computer Science student at John Abbott College
 - 🏅 FORTES Scholarship recipient — National Bank of Canada & Business Development Bank of Canada
 - 💻 Hackathon organizer & web developer @JACHacks
 - 🤖 Machine Learning and Artificial Intelligence Fellow @ Mila – Quebec AI Institute
 - 🛠️ Digital Operation Technician @ Pôle Municipal VD
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/elnarakanybek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elnarakanybek@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elnarakanybek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elnarakanybek@gmail.com) 
 
 
 ## 💻 Tech Stack  

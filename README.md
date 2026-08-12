@@ -4,7 +4,7 @@
 - 🏅 FORTES Scholarship recipient — National Bank of Canada & Business Development Bank of Canada
 - 💻 Hackathon organizer & web developer @JACHacks
 - 🤖 Machine Learning and Artificial Intelligence Fellow @ Mila – Quebec AI Institute
-- 🛠️ Digital Operation Technician @ Pôle Municipal VD
+- 🛠️ Digital Operation Technician @ Ville de Vaudreuil-Dorion
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elnarakanybek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elnarakanybek@gmail.com) 

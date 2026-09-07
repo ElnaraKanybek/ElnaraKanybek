@@ -2,7 +2,7 @@
 # 👩🏻‍💻 About Me
 - 🎓 SWE - Computer Science student at John Abbott College
 - 🏅 FORTES Scholarship recipient — National Bank of Canada & Business Development Bank of Canada
-- 💻 Hackathon organizer & web developer @JACHacks
+- 💻 Hackathon organizer & web developer @[JACHacks](https://jachacks.pages.dev/)
 - 🤖 Machine Learning & Artificial Intelligence Fellow @ Mila – Quebec AI Institute
 - 🛠️ Technician @ Ville de Vaudreuil-Dorion
 

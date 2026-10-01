@@ -1,4 +1,6 @@
 # Hi there, I'm Elnara! 🌟
+
+👉 **[Check out my portfolio](https://elnarakanybek.github.io/)**
 # 👩🏻‍💻 About Me
 - 🎓 SWE - Computer Science student at John Abbott College
 - 🏅 FORTES Scholarship recipient — National Bank of Canada & Business Development Bank of Canada

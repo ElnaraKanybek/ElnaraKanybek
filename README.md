@@ -2,9 +2,9 @@
 
 👉 **[Check out my portfolio](https://elnarakanybek.github.io/)**
 # 👩🏻‍💻 About Me
-- 🎓 SWE - Computer Science student at John Abbott College
-- 🏅 FORTES Scholarship recipient — National Bank of Canada & Business Development Bank of Canada
-- 💻 Hackathon organizer & web developer @[JACHacks](https://jachacks.pages.dev/)
+- 🎓 Computer Science & Mathematics student at John Abbott College
+- 🏅 FORTES Women in Tech Scholarship recipient — National Bank of Canada & Business Development Bank of Canada
+- 💻 Software developer & hackathon organizer @[JACHacks](https://jachacks.pages.dev/)
 - 🤖 Machine Learning & Artificial Intelligence Fellow @ Mila – Quebec AI Institute
 - 🛠️ Technician @ Ville de Vaudreuil-Dorion
 

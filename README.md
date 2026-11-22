@@ -1,6 +1,7 @@
 # Hi there, I'm Elnara! 🌟
 
 # 👩🏻‍💻 About Me
+- ⚡️ Incoming SWE @HydroQuebec
 - 🎓 Computer Science & Mathematics student at John Abbott College
 - 🏅 FORTES Women in Tech Scholarship recipient — National Bank of Canada & Business Development Bank of Canada
 - 💻 Software developer & hackathon organizer @[JACHacks](https://jachacks.pages.dev/)

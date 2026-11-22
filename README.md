@@ -6,7 +6,6 @@
 - 🏅 FORTES Women in Tech Scholarship recipient — National Bank of Canada & Business Development Bank of Canada
 - 💻 Software developer & hackathon organizer @[JACHacks](https://jachacks.pages.dev/)
 - 🤖 Machine Learning & Artificial Intelligence Fellow @ Mila – Quebec AI Institute
-- 🛠️ Technician @ Ville de Vaudreuil-Dorion
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elnarakanybek) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elnarakanybek@gmail.com) 

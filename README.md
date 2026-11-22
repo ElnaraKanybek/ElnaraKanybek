@@ -1,6 +1,5 @@
 # Hi there, I'm Elnara! 🌟
 
-👉 **[Check out my portfolio](https://elnarakanybek.github.io/)**
 # 👩🏻‍💻 About Me
 - 🎓 Computer Science & Mathematics student at John Abbott College
 - 🏅 FORTES Women in Tech Scholarship recipient — National Bank of Canada & Business Development Bank of Canada
